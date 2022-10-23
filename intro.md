@@ -1,5 +1,12 @@
 # HOW TO ECLIPSE -MODELING-
 
+## EJERCICIO DE CLASE 3
+
+### INTEGRANTES DE GRUPO
+
+Galo Medina
+Paulo Jara
+
 This is a small sample book to give you a feel for how book content is
 structured.
 It shows off a few of the major file types, as well as some sample content.
