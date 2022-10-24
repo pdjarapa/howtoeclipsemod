@@ -21,5 +21,6 @@ Otra consideracion que hay que tener encuenta, son las versiones de Java que ten
 
 ```{note}
 -vm
+
 C:/Program Files/Java/jdk-19/bin/javaw.exe
 ```
