@@ -1,4 +1,4 @@
-# CREACION DE NUEVO PROJECTO -EMF-
+# Creacion de un Nuevo Proyecto - *EMF* -
 
 Una vez cumplido el reincio del IDE de desarrollo, damos clic en el menu "**File***", del submenu desplegado escogemos "**New Project**"
 
