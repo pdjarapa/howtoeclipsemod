@@ -1,4 +1,4 @@
-# ISNTALACION DE PLUGING -EMF-
+# Instalacion del pluging - *EMF* -
 
 Para la instalacion del pluging, se debe tener instalada el IDE [Eclipse](https://www.eclipse.org/downloads/)
 
