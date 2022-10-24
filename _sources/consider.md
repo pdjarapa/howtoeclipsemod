@@ -19,6 +19,7 @@ Segun las herramienta que escogamos para nuestras necesidades se nos habilitaran
 
 Otra consideracion que hay que tener encuenta, son las versiones de Java que tenemos instaladas en nuestros equipos, para inconvenientes para versiones inferiores al requerimiento minimo de IDE debemos modificar el archivo **eclipse.ini**, para ello agregamos las siguientes lineas:
 
+```{note}
 -vm
-
 C:/Program Files/Java/jdk-19/bin/javaw.exe
+```
