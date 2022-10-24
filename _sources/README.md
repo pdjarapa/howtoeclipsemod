@@ -1,1 +1,8 @@
-# howtoecplisemod
+# HOW TO ECLIPSE -MODELING-
+
+## EJERCICIO DE CLASE 3
+
+### INTEGRANTES DE GRUPO
+
+Galo Medina
+Paulo Jara
